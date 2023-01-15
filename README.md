@@ -1,0 +1,1 @@
+Тест API сайта PetFriend
